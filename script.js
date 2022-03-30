@@ -25,9 +25,9 @@ var canvas = document.getElementById( 'canvas' ),
 		limiterTotal = 5,
 		limiterTick = 0,
 		// this will time the auto launches of fireworks, one launch per 80 loop ticks
-// 		timerTotal = 80,
-// 		timerTick = 0,
-// 		mousedown = false,
+		timerTotal = 80,
+		timerTick = 0,
+		mousedown = false,
 		// mouse x coordinate,
 		mx,
 		// mouse y coordinate
