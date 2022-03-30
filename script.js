@@ -40,9 +40,9 @@ canvas.height = ch;
 // now we are going to setup our function placeholders for the entire demo
 
 // get a random number within a range
-function random( min, max ) {
-	return Math.random() * ( max - min ) + min;
-}
+// function random( min, max ) {
+//	return Math.random() * ( max - min ) + min;
+// }
 
 // calculate the distance between two points
 function calculateDistance( p1x, p1y, p2x, p2y ) {
